@@ -1,6 +1,7 @@
 // mengurutkan array angka dari belakang
 // Build a function that returns an array of integers from n to 1 where n>0.
 // ===========================================
+// 2/366
 // dengan for
 
 function reverseSeq1(n) {
